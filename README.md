@@ -9,6 +9,9 @@ What I am offering up is a structured data version of that, which I have made sl
 Check out the link in the description if you want to get access to the checklist of safeguards, mapped to Pillars, Functions, and Capabilities.  
 
 • Each pillar provides a foundational component of the overall Zero Trust security model, with its own set of functions, capabilities, and safeguards.
+
 • CISA Function Mapping - Describes maturity levels for different security domains (e.g., "Identity Stores" progressing from self-managed to fully integrated)
+
 • Capability - Names a specific security control or feature needed (e.g., "Conditional User Access")
+
 • Safeguard - Details the implementation steps to establish that capability (e.g., "Roles and Permissions Pt1")

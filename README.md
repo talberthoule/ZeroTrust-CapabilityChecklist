@@ -4,7 +4,7 @@ Many clients over the years have been diving in to Zero Trust implementations to
 
 When I first saw it, the document was a thing of beauty.  Having all the controls, descriptions, outcomes, estimated durations, and other useful information helped me round out what CISA and others have proposed, but in a much more comprehensive format.  
 
-What I am offering up is a digitized version of that, which I have made slights adjustments to eliminate Federal Government specific language and other small enhancements to give greater context to the information presented.  
+What I am offering up is a structured data version of that, which I have made slights adjustments to eliminate Federal Government specific language and other small enhancements to give greater context to the information presented.  
 
 Check out the link in the description if you want to get access to the checklist of safeguards, mapped to Pillars, Functions, and Capabilities.  
 
